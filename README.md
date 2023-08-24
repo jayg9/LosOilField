@@ -1,5 +1,6 @@
 # LosOilField
-A react site built for Los Oil Services
+A react site built for Los Oil Services.
+We want to build a static site. 
 
 
 Pages ----|
@@ -10,4 +11,5 @@ Pages ----|
           Careers
           FAQ
           Testimony
+
 
